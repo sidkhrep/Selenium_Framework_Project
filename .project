@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Ecommerce_Opencart_Final</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>New Text Document.txt</name>
+			<type>1</type>
+			<location>C:/Users/sidkh/OneDrive/Desktop/New Text Document.txt</location>
+		</link>
+		<link>
+			<name>testData/Opencart_LoginData.xlsx</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Open_Cart_Sir_Project/Part6-Login+Data+Driven+Test/Part6-Login%20Data%20Driven%20Test/testData/Opencart_LoginData.xlsx</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
